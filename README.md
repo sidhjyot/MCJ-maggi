@@ -14,4 +14,4 @@ noodles in the World!!
 Introducing recipie of maggi.
 
 [Ingredients](./ingredients.md)
-[Recipe](./recipe.md)
+[Recipe](./recipie.md)
