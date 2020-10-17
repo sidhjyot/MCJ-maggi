@@ -13,6 +13,5 @@ and the most best market selling
 noodles in the World!!
 Introducing recipie of maggi.
 
-//NExt = Visit the ingrdients.MD file for ingridients
-of Maggi!!
-[Ingredients] (ingredients.md)
+[Ingredients](./ingredients.md)
+[Recipe](./recipe.md)
